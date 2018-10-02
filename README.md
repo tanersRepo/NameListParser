@@ -5,7 +5,7 @@ Keywords:
 Set data structure, List/String manipulation
 
 Instructions :
-Actor Name Program v1.7
+Actor Name Program
 =======================
 
 Description
@@ -147,19 +147,3 @@ the plaintext file.
 
 Being fancy and clever is fine, but not at the expense of finishing, getting
 the right answer, and having readable code.
-
-
-Finishing Up
-------------
-
-You should submit your source code and the program output.  Please make sure to
-include both, preferably in a single archive file.
-
-Thanks for investing the time to do this!  We believe this should take you
-about an hour to write assuming you have proficiency with a programming
-language.  If you're close to finishing and time is about to expire, you should
-take a little more time and complete the program.
-
-If anything is unclear, email us and we'll get it cleared up.
-
-
