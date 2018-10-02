@@ -2,7 +2,7 @@
 parse a file full of names and extract certain information
 
 Keywords:
-Set data structure
+Set data structure, List/String manipulation
 
 Instructions :
 Actor Name Program v1.7
